@@ -9,9 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 - 💻 Tools I've worked with:
 <p align= left>
-<img src="http://oportounity-darkmode.academiadecodigo.org/images/2/frontend/frontend.png" alt="javascript" width="40" height="40" />
-<img src="http://oportounity-darkmode.academiadecodigo.org/images/2/frontend/frontend.png" alt="html5" width="40" height="40" />
-<img src="https://github.com/chibi-affm/chibi-affm/assets/149700565/c8140609-167d-47bf-adf0-860c59d96626" alt="css3" width="40" height="40" />
+<img src="https://github.com/chibi-affm/chibi-affm/assets/149700565/c8140609-167d-47bf-adf0-860c59d96626" alt="css3" width="120" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />
